@@ -1,0 +1,18 @@
+{
+  "newMsgCount": 3,
+  "msgList": [
+    {
+      "msg_no": "aaa",
+      "msg_title": "aaa消息"
+    },
+    {
+      "msg_no": "bbb",
+      "msg_title": "bbb消息"
+    },
+    {
+      "msg_no": "ccc",
+      "msg_title": "ccc消息"
+    }
+  ],
+  "newGGCount": 0
+}

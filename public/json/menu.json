@@ -1,0 +1,36 @@
+[
+  {
+    "nodes": [
+      {
+        "menuId": "DeskConfig",
+        "text": "桌面",
+        "nodes": [
+          {
+            "menuId": "DeskConfig",
+            "text": "桌面配置"
+          }
+        ]
+      },
+      {
+        "menuId": "Manage",
+        "text": "导航管理"
+      }
+    ],
+    "menuId": "menu",
+    "text": "导航"
+  },
+  {
+    "nodes": [
+      {
+        "menuId": "Table",
+        "text": "表格"
+      },
+      {
+        "menuId": "Tree",
+        "text": "树"
+      }
+    ],
+    "menuId": "ui",
+    "text": "前端"
+  }
+]
