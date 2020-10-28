@@ -1,6 +1,5 @@
 import axios from 'axios'
 const ax = axios.create({
-  // baseURL: 'eunomia-server',
   timeout: 1000,
 });
 // 获取有权限的路由表

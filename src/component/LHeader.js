@@ -63,7 +63,7 @@ export default () => {
         <Col span={3}>
           <Row>
             <Col span={6}>
-              <Badge count={5} offset={[5, 0]} showZero>
+              <Badge count={msgList.length} offset={[5, 0]} showZero>
                 <HeaderDropdown list={msgList} keyString="msg_no" labelString="msg_title" IconComponent={MessageOutlined}/>
               </Badge>
             </Col>
