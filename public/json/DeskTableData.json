@@ -1,0 +1,17 @@
+[
+  {
+    "deskName": "desk1",
+    "deskTitle": "桌面1",
+    "deskPath": "desk/desk1"
+  },
+  {
+    "deskName": "desk2",
+    "deskTitle": "桌面2",
+    "deskPath": "desk/desk2"
+  },
+  {
+    "deskName": "desk3",
+    "deskTitle": "桌面3",
+    "deskPath": "desk/desk3"
+  }
+]

@@ -101,8 +101,8 @@ function webpackCommonConfigCreator(options){
       }),
       new CopyWebpackPlugin([
         {
-          from: path.resolve(__dirname, '../public/json'),
-          to: 'public/json',
+          from: path.resolve(__dirname, '../public'),
+          to: './',
           ignore: ['.*']
         }
       ])
